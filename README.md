@@ -6,7 +6,7 @@ Community Governance and Operational Process
 
 This repository contains the public governance and operational process for the Malta Microsoft AI User Group (MMAUG).
 
-For the original document, see [Community Governance and Operational Process.pdf](./Community%20Governance%20and%20Operational%20Process.pdf).
+You can download a copy of this Community Governance and Operational Process by [clicking here](./Community%20Governance%20and%20Operational%20Process.pdf).
 
 ## 1. Purpose of the Community
 
