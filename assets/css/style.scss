@@ -15,4 +15,13 @@ $mmaug-dark-blue: #0a2a66;
   h6 {
     color: $mmaug-dark-blue;
   }
+
+  /* Homepage: hide the duplicated README title/subtitle rendered in-page */
+  > h1:first-of-type {
+    display: none;
+  }
+
+  > h1:first-of-type + p {
+    display: none;
+  }
 }
