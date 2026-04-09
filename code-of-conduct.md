@@ -1,13 +1,10 @@
 ---
 layout: default
 title: Code of Conduct
+hide_tagline: true
 ---
 
-# Malta Microsoft AI User Group (MMAUG) – Code of Conduct
-
-Download:
-
-- [DOCX](./Our-code-of-conduct.docx)
+[← Back to Community Governance and Operational Process](./)
 
 ## 1. Purpose
 

@@ -3,8 +3,6 @@ layout: default
 title: Malta Microsoft AI User Group (MMAUG)
 ---
 
-![Malta Microsoft AI User Group (MMAUG) logo](./src/MMAUG_logo1.png)
-
 Quick links:
 
 - [Community Governance and Operational Process (PDF)](./Community%20Governance%20and%20Operational%20Process.pdf)

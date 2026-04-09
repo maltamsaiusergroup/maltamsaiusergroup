@@ -8,6 +8,8 @@ This repository contains the public governance and operational process for the M
 
 You can download a copy of this Community Governance and Operational Process by [clicking here](./Community%20Governance%20and%20Operational%20Process.pdf).
 
+Read the community Code of Conduct here: https://maltamsaiusergroup.github.io/maltamsaiusergroup/code-of-conduct.html
+
 ## 1. Purpose of the Community
 
 The Malta Microsoft AI User Group (MMAUG) is a technology community dedicated to advancing knowledge, collaboration, and practical skills in Microsoft AI technologies, cloud infrastructure, DevOps, intelligent systems, and open-source technologies.
