@@ -2,3 +2,12 @@ title: Malta Microsoft AI User Group (MMAUG)
 description: Community Governance and Operational Process
 theme: jekyll-theme-cayman
 markdown: kramdown
+
+# Blog / Articles settings
+permalink: /articles/:year/:month/:day/:title/
+defaults:
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "post"
